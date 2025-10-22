@@ -65,26 +65,32 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 📋 **Expense Tracker — How to Use**
 
 **1. Add an Expense:**
+
 ○ Fill in the form with the **amount**, **description**, **category**, **date**, and **selected currency**.
 ○ Click **“Add Expense”** to log your spending instantly.
 
 **2. View Summary:**
+
 ○ The **summary section** displays your **total expenses** and the **number of recorded expenses** at a glance.
 
 **3. Set Budget:**
+
 ○ Enter your desired **monthly budget amount** in the input field.
 ○ Click **“Set Budget”** to activate **budget tracking**.
 ○ Monitor your spending against your budget with **real-time status updates**.
 
 **4. Analyze Spending:**
+
 ○ Navigate to the **“Analytics”** section.
 ○ Switch between **“Last 7 Days”**, **“Last 30 Days”**, and **“All Time”** tabs to view spending trends.
 ○ Explore **top categories** and **daily averages** through a clear and interactive **pie chart visualization**.
 
 **5. Filter/Search Expenses:**
+
 ○ Use the **category dropdown** to filter your expense list by specific categories.
 ○ Utilize the **search bar** to quickly find expenses by **description** or **date**.
 
 **6. Toggle Theme:**
+
 ○ Click the **sun/moon icon** in the header to switch effortlessly between **light** and **dark** modes.
 
