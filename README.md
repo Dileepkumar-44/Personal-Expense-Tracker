@@ -153,3 +153,6 @@ This project is live at https://personal-expense-tracker-free.vercel.app/, deplo
 # Contributing
 Feel free to fork this repository, submit issues, or send pull requests. I’d love to collaborate and improve this tool!
 
+# Contact
+Built with 💖 by Dileep Kumar Mangali. Connect with me on LinkedIn or email me at dileep.air44@gmail.com for feedback or opportunities.
+
