@@ -150,3 +150,6 @@ This project is live at https://personal-expense-tracker-free.vercel.app/, deplo
 
 • Explore advanced accessibility features for even broader inclusivity.
 
+# Contributing
+Feel free to fork this repository, submit issues, or send pull requests. I’d love to collaborate and improve this tool!
+
