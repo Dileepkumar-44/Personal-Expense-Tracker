@@ -138,3 +138,15 @@ This project is live at https://personal-expense-tracker-free.vercel.app/, deplo
 • **Challenge:** Adapting the layout and functionality for a wide range of screen sizes   and devices.
 
 • **Solution:** Designed with a **mobile-first approach**, leveraging **CSS Grid**,       **Flexbox**, and **media queries** to create a fully responsive and adaptive            interface.
+
+# Future Improvements
+• Add export/import functionality for data backup and migration.
+
+• Implement bank sync or API integration for real-time transaction updates (requires backend development).
+
+• Enhance analytics with more detailed reports, trend analysis over longer periods, and predictive insights.
+
+• Add user authentication for multiple profiles and cloud synchronization of data.
+
+• Explore advanced accessibility features for even broader inclusivity.
+
