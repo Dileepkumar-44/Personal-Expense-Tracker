@@ -54,6 +54,8 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 
 ► **Vercel Deployment:** Leveraged Vercel for seamless and efficient deployment, demonstrating strong understanding of modern CI/CD workflows.
 
-#
+# Project Structure
+**index.html:** The main HTML file, providing the overall structure of the application, including navigation, expense forms, summary, analytics, and expense list sections.
+**styles.css:** Contains all custom CSS rules, defining theme variables, preloader animations, and comprehensive responsive styling for all components.
+**script.js:** Houses the core JavaScript logic, managing expense data, handling user interactions, updating analytics, and controlling UI elements like the theme toggle and custom modals.
 
-#
