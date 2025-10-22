@@ -156,3 +156,5 @@ Feel free to fork this repository, submit issues, or send pull requests. I’d l
 # Contact
 Built with 💖 by Dileep Kumar Mangali. Connect with me on LinkedIn or email me at dileep.air44@gmail.com for feedback or opportunities.
 
+This project reflects my skills in front-end development, problem-solving, performance optimization, and web accessibility, making it a strong portfolio piece for a software developer role. Give it a try and let me know your thoughts! 🚀
+
