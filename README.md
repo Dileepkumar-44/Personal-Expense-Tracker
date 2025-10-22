@@ -23,7 +23,7 @@ This app allows users to track daily expenses, set budgets, analyze spending pat
 This project highlights a range of concepts and tools I’ve mastered, with a strong emphasis on modern web development practices:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✨ **Project Highlights — Modern Web Development Practices**
+ **Project Highlights — Modern Web Development Practices**
 
 ► **HTML5:** Structured the application using semantic HTML5 tags to enhance accessibility and SEO.
 
@@ -64,7 +64,7 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Usage
-📋**Expense Tracker — How to Use**
+**Expense Tracker — How to Use**
 
 **1. Add an Expense:**
 
@@ -106,7 +106,7 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 This project is live at https://personal-expense-tracker-free.vercel.app/, deployed using Vercel's powerful platform. The deployment process is streamlined through Continuous Deployment (CD) directly from the GitHub repository, ensuring that every code update is automatically built and deployed.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# ⚙️Challenges & Solutions
+# Challenges & Solutions
 
 **1. Performance Optimization (TBT, INP, Reflows):**
 
@@ -158,7 +158,8 @@ Feel free to fork this repository, submit issues, or send pull requests. I’d l
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Contact
-Built with 💖 by Dileep Kumar Mangali. Connect with me on LinkedIn or email me at dileep.air44@gmail.com for feedback or opportunities.
+Built with 💖 by Dileep Kumar Mangali. Connect with me on <a href="https://www.linkedin.com/in/mdileepkumar" target="_blank">LinkedIn</a> or email me at <a href="mailto:dilep.air44@gmail.com">dilep.air44@gmail.com</a> for feedback or opportunities.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 This project reflects my skills in front-end development, problem-solving, performance optimization, and web accessibility, making it a strong portfolio piece for a software developer role. Give it a try and let me know your thoughts! 🚀
