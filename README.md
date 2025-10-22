@@ -100,4 +100,5 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 
 • Click the **sun/moon icon** in the header to switch effortlessly between **light**      and **dark** modes.
 
-
+# Deployment
+This project is live at https://personal-expense-tracker-free.vercel.app/, deployed using Vercel's powerful platform. The deployment process is streamlined through Continuous Deployment (CD) directly from the GitHub repository, ensuring that every code update is automatically built and deployed.
