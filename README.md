@@ -21,7 +21,7 @@ This app allows users to track daily expenses, set budgets, analyze spending pat
 **Motivational Quotes**: A dynamic motivational quote is displayed on larger screens to inspire financial discipline.
 #Technologies Used
 This project highlights a range of concepts and tools I’ve mastered, with a strong emphasis on modern web development practices:
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✨ **Project Highlights — Modern Web Development Practices**
 
 ► **HTML5:** Structured the application using semantic HTML5 tags to enhance accessibility and SEO.
@@ -60,7 +60,7 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 **styles.css:** Contains all custom CSS rules, defining theme variables, preloader animations, and comprehensive responsive styling for all components.
 
 **script.js:** Houses the core JavaScript logic, managing expense data, handling user interactions, updating analytics, and controlling UI elements like the theme toggle and custom modals.
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # Usage
 📋**Expense Tracker — How to Use**
 
@@ -102,7 +102,7 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 
 # Deployment
 This project is live at https://personal-expense-tracker-free.vercel.app/, deployed using Vercel's powerful platform. The deployment process is streamlined through Continuous Deployment (CD) directly from the GitHub repository, ensuring that every code update is automatically built and deployed.
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ⚙️Challenges & Solutions
 
 **1. Performance Optimization (TBT, INP, Reflows):**
@@ -138,7 +138,7 @@ This project is live at https://personal-expense-tracker-free.vercel.app/, deplo
 • **Challenge:** Adapting the layout and functionality for a wide range of screen sizes   and devices.
 
 • **Solution:** Designed with a **mobile-first approach**, leveraging **CSS Grid**,       **Flexbox**, and **media queries** to create a fully responsive and adaptive            interface.
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # Future Improvements
 • Add export/import functionality for data backup and migration.
 
@@ -155,6 +155,6 @@ Feel free to fork this repository, submit issues, or send pull requests. I’d l
 
 # Contact
 Built with 💖 by Dileep Kumar Mangali. Connect with me on LinkedIn or email me at dileep.air44@gmail.com for feedback or opportunities.
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 This project reflects my skills in front-end development, problem-solving, performance optimization, and web accessibility, making it a strong portfolio piece for a software developer role. Give it a try and let me know your thoughts! 🚀
 
