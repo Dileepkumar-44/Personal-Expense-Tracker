@@ -102,3 +102,39 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 
 # Deployment
 This project is live at https://personal-expense-tracker-free.vercel.app/, deployed using Vercel's powerful platform. The deployment process is streamlined through Continuous Deployment (CD) directly from the GitHub repository, ensuring that every code update is automatically built and deployed.
+
+# ⚙️Challenges & Solutions
+
+**1. Performance Optimization (TBT, INP, Reflows):**
+
+• **Challenge:** Initial Lighthouse audits revealed high **Total Blocking Time (TBT)**    and **Interaction to Next Paint (INP)** during user interactions, indicating a           sluggish UI due to JavaScript execution and forced reflows. 
+
+• **Solution:** Implemented the **defer** attribute for script loading to prevent           render blocking. Refactored JavaScript to cache computed styles and use                  **requestAnimationFrame** for DOM updates, reducing layout thrashing and improving        responsiveness. Replaced external image assets with **inline SVGs** to minimize           HTTP requests.
+
+**2. Web Accessibility (A11y):**
+• **Challenge:** Issues were found with **ARIA attribute usage** and **insufficient       color contrast**, affecting usability for assistive technologies and visually           impaired users.
+• **Solution:** Enhanced color contrast for key text elements (e.g., `--text-secondary`) across both themes. Implemented proper **ARIA roles** (*dialog, aria-modal, aria-labelledby*) and **focus management** for the confirmation modal, ensuring full screen-reader accessibility. Added `aria-live="polite"` to dynamic message alerts.
+
+**3. Chart Loading:**
+
+• **Challenge:** Needed to ensure **Chart.js** loads efficiently and updates smoothly      without degrading performance.
+
+• **Solution:** Dynamically loaded **Chart.js** with the **defer** attribute and           optimized chart re-rendering logic to update only when necessary, using **cached        theme colors**.
+
+**4. Theme Consistency:**
+
+• **Challenge:** Maintaining consistent visual design and readability across **light**    and **dark** modes.
+
+• **Solution:** Used **CSS variables** (`:root` and `[data-theme="dark"]`) to define      theme-specific colors and properties, enabling seamless and consistent theme             switching.
+
+**5. Data Persistence:**
+
+• **Challenge:** Ensuring user data (expenses, budgets, and preferences) remained          persistent across sessions.
+
+• **Solution:** Implemented the **Local Storage API** for robust offline data storage     and reliable session recovery.
+
+**6. Responsiveness:**
+
+• **Challenge:** Adapting the layout and functionality for a wide range of screen sizes   and devices.
+
+• **Solution:** Designed with a **mobile-first approach**, leveraging **CSS Grid**,       **Flexbox**, and **media queries** to create a fully responsive and adaptive            interface.
