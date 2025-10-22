@@ -19,3 +19,41 @@ This app allows users to track daily expenses, set budgets, analyze spending pat
 **Responsive Design:** Optimized for optimal viewing and interaction across all devices, from desktop to tablet and mobile.
 
 **Motivational Quotes**: A dynamic motivational quote is displayed on larger screens to inspire financial discipline.
+#Technologies Used
+This project highlights a range of concepts and tools I’ve mastered, with a strong emphasis on modern web development practices:
+
+✨ **Project Highlights — Modern Web Development Practices**
+
+► **HTML5:** Structured the application using semantic HTML5 tags to enhance accessibility and SEO.
+
+► **CSS3:** Utilized custom CSS variables for theme management, applied gradients for visual appeal, implemented media queries for responsive design, and added subtle animations for a polished interface.
+
+► **JavaScript (ES6+):** Developed the core application logic, ensured efficient event handling, and managed data flow robustly.
+
+► **Chart.js:** Integrated dynamic and responsive pie chart visualizations for spending data with optimized performance.
+
+► **Local Storage API:** Implemented client-side data persistence to securely store expenses, budgets, theme preferences, and currency settings offline.
+
+► **DOM Manipulation:** Dynamically updated the user interface in real-time based on user interactions and data changes.
+
+► **Event Listeners:** Handled multiple user interactions such as form submissions, button clicks, and dynamic content updates.
+
+► **Responsive Design:** Achieved with a combination of CSS Grid, Flexbox, and adaptive media query breakpoints (768px, 480px).
+
+► **Web Accessibility (A11y):**
+
+* Correct usage of ARIA attributes (*role, aria-modal, aria-labelledby, aria-live*) for screen reader compatibility.
+* Enhanced color contrast ratios for better readability across themes.
+* Focus management for modals to maintain logical tab order and prevent focus trapping.
+
+► **Performance Optimization:**
+
+* Used the *defer* attribute for non-critical scripts to boost page load speed.
+* Cached computed CSS styles to minimize forced reflows and enhance runtime performance.
+* Embedded inline SVG icons to reduce HTTP requests and optimize image delivery.
+
+► **Vercel Deployment:** Leveraged Vercel for seamless and efficient deployment, demonstrating strong understanding of modern CI/CD workflows.
+
+#
+
+#
