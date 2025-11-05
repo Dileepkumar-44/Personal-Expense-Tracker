@@ -1,7 +1,7 @@
 # Personal Expense Tracker
 Welcome to my Personal Expense Tracker, a sleek and robust web application designed to help you manage your finances effortlessly! Built with modern web technologies and optimized for performance and accessibility, this project showcases my skills as a software developer.
 
-Check it out live at: [coruscating-naiad-34e70a.netlify.app](coruscating-naiad-34e70a.netlify.app)
+Check it out live at: [https://coruscating-naiad-34e70a.netlify.app](https://coruscating-naiad-34e70a.netlify.app)
 
 # Overview
 This app allows users to track daily expenses, set budgets, analyze spending patterns, and switch between light/dark themes. It’s a fully responsive, offline-capable tool, with data stored locally in the browser, making it perfect for personal use. I developed this project to demonstrate my ability to build practical, user-friendly applications with a strong focus on performance optimization, web accessibility, and clean, maintainable code.
@@ -106,7 +106,7 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 • Click the **sun/moon icon** in the header to switch effortlessly between **light**      and **dark** modes.
 
 # Deployment
-This project is live at [coruscating-naiad-34e70a.netlify.app](coruscating-naiad-34e70a.netlify.app), deployed using Vercel's powerful platform. The deployment process is streamlined through Continuous Deployment (CD) directly from the GitHub repository, ensuring that every code update is automatically built and deployed.
+This project is live at [https://coruscating-naiad-34e70a.netlify.app](https://coruscating-naiad-34e70a.netlify.app), deployed using Vercel's powerful platform. The deployment process is streamlined through Continuous Deployment (CD) directly from the GitHub repository, ensuring that every code update is automatically built and deployed.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Challenges & Solutions
