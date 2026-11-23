@@ -107,7 +107,7 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 
 # Deployment
 This project is live at [https://coruscating-naiad-34e70a.netlify.app](https://coruscating-naiad-34e70a.netlify.app), deployed using Vercel's powerful platform. The deployment process is streamlined through Continuous Deployment (CD) directly from the GitHub repository, ensuring that every code update is automatically built and deployed.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # Challenges & Solutions
 
