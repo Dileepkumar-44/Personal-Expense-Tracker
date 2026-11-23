@@ -165,5 +165,5 @@ Built with 💖 by Dileep Kumar Mangali. Connect with me on <a href="https://www
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-This project reflects my skills in front-end development, problem-solving, performance optimization, and web accessibility, making it a strong portfolio piece for a software developer role. Give it a try and let me know your thoughts! 🚀
+This project reflects my skills in front-end development, problem-solving, performance optimization, and web accessibility, making it a strong portfolio piece for a software developer role. Give it a try and let me know your thoughts! 🚀 
 
