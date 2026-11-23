@@ -64,7 +64,7 @@ This project highlights a range of concepts and tools I’ve mastered, with a st
 **styles.css:** Contains all custom CSS rules, defining theme variables, preloader animations, and comprehensive responsive styling for all components.
 
 **script.js:** Houses the core JavaScript logic, managing expense data, handling user interactions, updating analytics, and controlling UI elements like the theme toggle and custom modals.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # Usage
 **Expense Tracker — How to Use**
