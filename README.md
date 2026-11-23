@@ -24,7 +24,7 @@ This app allows users to track daily expenses, set budgets, analyze spending pat
 **Motivational Quotes**: A dynamic motivational quote is displayed on larger screens to inspire financial discipline.
 #Technologies Used
 This project highlights a range of concepts and tools I’ve mastered, with a strong emphasis on modern web development practices:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
  **Project Highlights — Modern Web Development Practices**
 
