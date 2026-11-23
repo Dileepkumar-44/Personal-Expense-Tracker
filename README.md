@@ -149,8 +149,9 @@ This project is live at [https://coruscating-naiad-34e70a.netlify.app](https://c
 • **Challenge:** Adapting the layout and functionality for a wide range of screen sizes   and devices.
 
 • **Solution:** Designed with a **mobile-first approach**, leveraging **CSS Grid**,       **Flexbox**, and **media queries** to create a fully responsive and adaptive            interface.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 # Future Improvements
+
 • Add export/import functionality for data backup and migration.
 
 • Implement bank sync or API integration for real-time transaction updates (requires backend development).
@@ -162,13 +163,13 @@ This project is live at [https://coruscating-naiad-34e70a.netlify.app](https://c
 • Explore advanced accessibility features for even broader inclusivity.
 
 # Contributing
+
 Feel free to fork this repository, submit issues, or send pull requests. I’d love to collaborate and improve this tool!
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # Contact
+
 Built with 💖 by Dileep Kumar Mangali. Connect with me on <a href="https://www.linkedin.com/in/mdileepkumar" target="_blank">LinkedIn</a> or email me at <a href="mailto:dilep.air44@gmail.com">dilep.air44@gmail.com</a> for feedback or opportunities.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+---
 This project reflects my skills in front-end development, problem-solving, performance optimization, and web accessibility, making it a strong portfolio piece for a software developer role. Give it a try and let me know your thoughts! 🚀 
 
