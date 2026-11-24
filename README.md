@@ -116,7 +116,7 @@ This project is live at [https://coruscating-naiad-34e70a.netlify.app](https://c
 
 # Challenges & Solutions
 
-**1. Performance Optimization (TBT, INP, Reflows):**
+**1. Performance Optimization (TBT, INP, Reflows):**   
 
 • **Challenge:** Initial Lighthouse audits revealed high **Total Blocking Time (TBT)**    and **Interaction to Next Paint (INP)** during user interactions, indicating a           sluggish UI due to JavaScript execution and forced reflows. 
 
